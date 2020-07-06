@@ -1,0 +1,31 @@
+body {
+font-family: fansong;
+color: grey; 
+background-color: Aquamarine; 
+text-align: center;
+}
+
+table, td, th {
+border: 2.5px solid rgba(255,255,255,0.3);
+border-collapse: collapse;
+padding: 10px;
+text-align: center;
+}
+
+table {
+margin-left: auto;
+margin-right: auto;
+}
+
+.HTML {
+background-color: #65cca9;
+font-size: 20px;
+}
+
+.headings-1 {
+background-color: #72E5BE;
+}
+
+.body-1, .headings-1 {
+font-size: 18px;
+}
